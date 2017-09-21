@@ -10,7 +10,7 @@ My research interests includes  stochastic modeling, machine learning, optimizat
  -Senior reserach engineer, JD.COM, 2014.8-Now
  -Data Analyst, Yahoo Beijing R&D Center, 2010.9-2014.4
 ### Education
- -Certification, Data Science, John Hopkins Unviersity, 2014-2014.
+ -Specializations Certicate, Data Science, John Hopkins Unviersity, 2014-2014.
  -B.A. Control egnieering, Beihang University, 2006-2010 
 
 ## Projects
